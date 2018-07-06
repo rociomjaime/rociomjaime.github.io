@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-image: url('https://github.com/rociomjaime/rociomjaime.github.io/blob/master/background.jpeg')
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
