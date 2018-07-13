@@ -25,6 +25,7 @@ a:hover {
     text-decoration: underline;
 }
 .blurb {
+    text-align: center;
     display: block;
     margin: auto;
     width: 50%;
